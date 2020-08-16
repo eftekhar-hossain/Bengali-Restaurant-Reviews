@@ -69,7 +69,7 @@ The performance of the different machine learning algorithms on numerical evalua
 
 
 
-***Thus, `Stochastic Gradient Descent Algorithm` selected as the best model for this task. *** 
+**Thus, `Stochastic Gradient Descent Algorithm` selected as the best model for this task.**
 
 
 
