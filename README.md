@@ -1,6 +1,6 @@
 ## Sentiment Analysis of Bengali Restaurant Reviews Using Machine Learning: Project overview
 - Created a tool that can identify the sentiment of a restaurant review written in Bengali Text. It classifies a review as **positive or negative** sentiment.   
-- Collected `1.4k` Bengali restaurant reviews from different social media groups of food or restaurant reviews. Among these reviews `630` reviews are labelled as positve and `790` reviews are labelled as negative sentiment.
+- Collected `1.4k` Bengali restaurant reviews from different social media groups of food or restaurant reviews. Among these reviews `630` reviews are labelled as positve and `790` reviews are labeled as negative sentiment.
 - Use Bengali *stopword list* for removing some words that have not much impact on classification.
 - Extract `Unigram, Bigram and Trigram` features from the cleaned Text and use the `TF-idf vectorizer` as a feature extraction technique.
 - Employed different machine learning classifiers for the classification purpose. The used classifiers are `Logistic Regression, Decision Tree, Multinomial Naive Bayes, Support Vector Machine`, `Stochastic Gradient Descent` and so on.
