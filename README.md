@@ -89,8 +89,6 @@ For the deployment a webpage is created using **Bootstrap** and used **Flask** F
 
 **Deployment Framework:** Flask
 
-**Related Publication:** [Sentiment Analysis of Bengali Texts on Online Restaurant Reviews Using Multinomial Naïve Bayes](https://ieeexplore.ieee.org/abstract/document/8934655).
-
 
 ## Acknowledgement
 
@@ -98,5 +96,29 @@ This work owes its gratitude to [Omar Sharif](https://www.researchgate.net/profi
 
 ## Note
 **The availabe code in this repository is a re-implented version of the actual work.**
+
+## Citation
+If you use our dataset, please cite the following paper:
+```
+@inproceedings{sharif2019sentiment,
+  title={Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Na{\"\i}ve Bayes},
+  author={Sharif, Omar and Hoque, Mohammed Moshiul and Hossain, Eftekhar},
+  booktitle={2019 1st international conference on advances in science, engineering and robotics technology (ICASERT)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+```
+
+```
+@inproceedings{hossain2020sentilstm,
+  title={Sentilstm: a deep learning approach for sentiment analysis of restaurant reviews},
+  author={Hossain, Eftekhar and Sharif, Omar and Hoque, Mohammed Moshiul and Sarker, Iqbal H},
+  booktitle={International Conference on Hybrid Intelligent Systems},
+  pages={193--203},
+  year={2020},
+  organization={Springer}
+}
+```
 
 
